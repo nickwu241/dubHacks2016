@@ -1,0 +1,142 @@
+[
+    {
+        "id": "philadelphia-hoagie-station-richmond",
+        "latitude": 37.94933,
+        "longitude": -122.347277,
+        "name": "Philadelphia Hoagie Station",
+        "rating": 4.5
+    },
+    {
+        "id": "tacos-los-primos-richmond",
+        "latitude": 37.9394493103027,
+        "longitude": -122.347145080566,
+        "name": "Tacos Los Primos",
+        "rating": 4.5
+    },
+    {
+        "id": "gran-cafe-milan-richmond",
+        "latitude": 37.8986188,
+        "longitude": -122.3104505,
+        "name": "Gran Cafe Milan",
+        "rating": 4.5
+    },
+    {
+        "id": "serranos-sandwiches-richmond-2",
+        "latitude": 37.950319372839,
+        "longitude": -122.347304884726,
+        "name": "Serrano's Sandwiches",
+        "rating": 5.0
+    },
+    {
+        "id": "rincón-michoacano-richmond-3",
+        "latitude": 37.93457,
+        "longitude": -122.33797,
+        "name": "Rincón Michoacano",
+        "rating": 4.5
+    },
+    {
+        "id": "bubbaloo-cafe-richmond",
+        "latitude": 37.9123612493277,
+        "longitude": -122.35588632524,
+        "name": "Bubbaloo Cafe",
+        "rating": 4.0
+    },
+    {
+        "id": "akys-cafe-richmond",
+        "latitude": 37.928212,
+        "longitude": -122.385612,
+        "name": "Aky's Cafe",
+        "rating": 4.5
+    },
+    {
+        "id": "la-flor-de-jalisco-restaurant-richmond",
+        "latitude": 37.9358419192545,
+        "longitude": -122.349736690521,
+        "name": "La Flor De Jalisco Restaurant",
+        "rating": 4.0
+    },
+    {
+        "id": "frosty-king-richmond",
+        "latitude": 37.92964,
+        "longitude": -122.36027,
+        "name": "Frosty King",
+        "rating": 4.0
+    },
+    {
+        "id": "lillys-new-orleans-cafe-richmond",
+        "latitude": 37.913624,
+        "longitude": -122.3227644,
+        "name": "Lilly's New Orleans Cafe",
+        "rating": 4.0
+    },
+    {
+        "id": "great-steak-richmond-2",
+        "latitude": 37.9832795262337,
+        "longitude": -122.32882887125,
+        "name": "Great Steak",
+        "rating": 4.0
+    },
+    {
+        "id": "el-agricultor-taco-truck-richmond",
+        "latitude": 37.925291462444,
+        "longitude": -122.380690436411,
+        "name": "El Agricultor Taco Truck",
+        "rating": 4.5
+    },
+    {
+        "id": "tarabinis-deli-richmond",
+        "latitude": 37.9362488,
+        "longitude": -122.3596802,
+        "name": "Tarabini's Deli",
+        "rating": 4.0
+    },
+    {
+        "id": "the-new-snappers-seafood-restaurant-richmond",
+        "latitude": 37.93099,
+        "longitude": -122.35511,
+        "name": "The New Snapper's Seafood Restaurant",
+        "rating": 4.5
+    },
+    {
+        "id": "taqueria-la-estrella-richmond",
+        "latitude": 37.93622,
+        "longitude": -122.34797,
+        "name": "Taqueria La Estrella",
+        "rating": 4.0
+    },
+    {
+        "id": "cjs-barbecue-and-fish-richmond",
+        "latitude": 37.9357757568359,
+        "longitude": -122.346076965332,
+        "name": "CJ's Barbecue & Fish",
+        "rating": 4.0
+    },
+    {
+        "id": "huong-tra-richmond",
+        "latitude": 37.9345565159871,
+        "longitude": -122.324991782951,
+        "name": "Huong Tra",
+        "rating": 4.0
+    },
+    {
+        "id": "taqueria-la-bamba-richmond",
+        "latitude": 37.93639,
+        "longitude": -122.32586,
+        "name": "Taqueria La Bamba",
+        "rating": 4.0
+    },
+    {
+        "id": "taqueria-chavinda-richmond",
+        "latitude": 37.9251996427774,
+        "longitude": -122.337155789137,
+        "name": "Taqueria Chavinda",
+        "rating": 4.0
+    },
+    {
+        "id": "little-china-restaurant-richmond",
+        "latitude": 37.9265965487981,
+        "longitude": -122.385659552672,
+        "name": "Little China Restaurant",
+        "rating": 4.0
+    }
+]
