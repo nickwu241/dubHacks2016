@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="A full day of fun">
+    <meta name="author" content="Nicholas Wu">
+
+    <!-- Bootstrap Core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <style>
+      #map, #pano {
+          z-index: -1;
+          float: left;
+          height: 400px;
+          width: 50%;
+      }
+    </style>
+</head>
+<body>
+<div class="container-fluid">
+    <div class="row text-center">
+        <div class="col-lg-3">
+            <img class="gif img-fluid" src="img/sad-cat.jpg" width="450px" height="390px">
+        </div>
+        <div class="col-lg-6">
+            <div id="player" style="border: solid 4px #37474F"></div>
+        </div>
+        <div class="col-lg-3">
+            <img class="gif img-fluid" src="img/sad-cat.jpg" width="450px" height="390px">
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-lg-12 text-center">
+            <h3>The Amazing Google Maps Demo by yours truly, Nick Wu -- Here are some super powers! <button onclick="changeLoc()">Teleport</button></h3>
+            <div id="map"></div>
+            <div id="pano"></div>
+        </div>
+    </div>
+</div>
+
+<script src="youtube.js"></script>
+<script src="map.js"></script>
+<script async defer
+        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyATIc_qMTjS8dPOqe05NDKGz0NJuQKxz1o&callback=initMap">
+</script>
+
+</body>
+</html>
